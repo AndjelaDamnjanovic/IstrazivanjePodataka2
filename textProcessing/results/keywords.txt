@@ -1,0 +1,129 @@
+circular dichroism
+random coil
+chemical shift
+amino acid
+final model
+lir motif
+electron density
+active site
+hsqc spectrum
+density map
+intrinsically disordered
+secondary structure
+crystal structure
+corresponds region
+binding site
+cterminal domain
+nterminal region
+cterminal region
+disordered region
+cterminal residue
+hn hsqc spectrum
+electron density map
+visible electron density
+lack electron density
+amino acid sequence
+amino acid residue
+lack electron density indicating
+show region lack electron
+region lack electron density
+residue
+region
+structure
+domain
+protein
+disordered
+binding
+spectrum
+cterminal
+loop
+complex
+nterminal
+interaction
+density
+two
+peptide
+electron
+show
+observed
+flexible
+acid
+amino
+site
+data
+crystal
+form
+motif
+helix
+shift
+result
+conformation
+linker
+sequence
+secondary
+fragment
+presence
+unstructured
+bind
+model
+chemical
+value
+change
+bound
+segment
+structural
+indicating
+chain
+peak
+analysis
+cell
+first
+resonance
+signal
+highly
+solution
+terminus
+activity
+intrinsically
+well
+lack
+contains
+molecule
+using
+high
+mutant
+corresponds
+table
+affinity
+experiment
+ordered
+state
+position
+dna
+consistent
+addition
+absence
+three
+rna
+similar
+map
+random
+one
+part
+tail
+fulllength
+conformational
+present
+large
+hsqc
+corresponding
+unfolded
+study
+visible
+human
+subunit
+free
+coil
+indicate
+indicated
+suggesting
