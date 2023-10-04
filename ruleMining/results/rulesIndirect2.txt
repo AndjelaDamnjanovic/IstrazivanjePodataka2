@@ -1,0 +1,23 @@
+[1] "Min support: 0.00001, Min confidence: 0.7"
+     lhs                rhs                   support      confidence coverage     lift     count
+[1]  {repeat.=EEGP}  => {intersect_ind=IND_1} 1.139411e-05 1.0000000  1.139411e-05 17.44114  21  
+[2]  {repeat.=KSTA}  => {intersect_ind=IND_1} 1.410699e-05 1.0000000  1.410699e-05 17.44114  26  
+[3]  {repeat.=PLVEE} => {intersect_ind=IND_1} 1.193668e-05 0.9166667  1.302184e-05 15.98772  22  
+[4]  {repeat.=ETSD}  => {intersect_ind=IND_1} 1.193668e-05 0.9166667  1.302184e-05 15.98772  22  
+[5]  {repeat.=MKG}   => {intersect_ind=IND_1} 1.193668e-05 0.8461538  1.410699e-05 14.75789  22  
+[6]  {repeat.=IVER}  => {intersect_ind=IND_1} 1.139411e-05 0.7500000  1.519214e-05 13.08086  21  
+[7]  {repeat.=PVPT}  => {intersect_ind=IND_1} 1.302184e-05 0.7500000  1.736245e-05 13.08086  24  
+[8]  {repeat.=EPVA}  => {intersect_ind=IND_1} 1.302184e-05 0.7500000  1.736245e-05 13.08086  24  
+[9]  {repeat.=PPSE}  => {intersect_ind=IND_1} 1.464957e-05 0.7500000  1.953275e-05 13.08086  27  
+[10] {repeat.=VKKE}  => {intersect_ind=IND_1} 2.278821e-05 0.7500000  3.038429e-05 13.08086  42  
+[11] {repeat.=APVK}  => {intersect_ind=IND_1} 2.441594e-05 0.7500000  3.255459e-05 13.08086  45  
+[12] {repeat.=EVKK}  => {intersect_ind=IND_1} 2.604367e-05 0.7500000  3.472490e-05 13.08086  48  
+[13] {repeat.=PSEP}  => {intersect_ind=IND_1} 2.604367e-05 0.7500000  3.472490e-05 13.08086  48  
+[14] {repeat.=EPVV}  => {intersect_ind=IND_1} 2.929913e-05 0.7500000  3.906551e-05 13.08086  54  
+[15] {repeat.=VEKR}  => {intersect_ind=IND_1} 3.092686e-05 0.7500000  4.123582e-05 13.08086  57  
+[16] {repeat.=VPVK}  => {intersect_ind=IND_1} 3.581005e-05 0.7500000  4.774673e-05 13.08086  66  
+[17] {repeat.=EPVKA} => {intersect_ind=IND_1} 3.906551e-05 0.7500000  5.208735e-05 13.08086  72  
+[18] {repeat.=EPVK}  => {intersect_ind=IND_1} 1.578898e-04 0.7132353  2.213712e-04 12.43964 291  
+[19] {repeat.=QPK}   => {intersect_ind=IND_1} 1.193668e-05 0.7096774  1.681987e-05 12.37759  22  
+[20] {repeat.=KEPV}  => {intersect_ind=IND_1} 2.604367e-05 0.7058824  3.689520e-05 12.31140  48  
+[21] {repeat.=PAEV}  => {intersect_ind=IND_1} 1.030895e-05 0.7037037  1.464957e-05 12.27340  19  

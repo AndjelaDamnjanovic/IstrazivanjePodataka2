@@ -1,0 +1,4 @@
+[1] "Min support: 0.001, Min confidence: 0.7"
+    lhs                                                                                                                                                                            rhs                      support confidence    coverage     lift count
+[1] {repeat.=FSF,                                                                                                                                                                                                                                        
+     keywords=three/activity/acid/similar/protein/disordered/value/cell/bound/bind/interaction/spectrum/indicating/presence/ordered/binding/region/two/observed/structure/show} => {contains_ind=IND_1} 0.001155688  0.8148432 0.001418295 6.094832  2130

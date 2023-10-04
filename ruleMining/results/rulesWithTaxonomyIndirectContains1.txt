@@ -1,0 +1,4 @@
+[1] "Min support: 0.001, Min confidence: 0.7"
+    lhs                                                                                                                                  rhs                      support confidence    coverage    lift count
+[1] {repeat.=FSF,                                                                                                                                                                                             
+     taxonomy=Eukaryota Fungi Dikarya Ascomycota Saccharomycotina Saccharomycetes Saccharomycetales Saccharomycetaceae Saccharomyces} => {contains_ind=IND_1} 0.001336909  0.8140073 0.001642379 6.08858  2464

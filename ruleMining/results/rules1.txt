@@ -1,0 +1,9 @@
+[1] "Min support: 0.00001 Min confidence: 0.7"
+    lhs                  rhs                   support      confidence coverage     lift     count
+[1] {repeat.=GDDE}    => {intersect_ind=IND_1} 1.114164e-05 1.0000000  1.114164e-05 18.11301 21   
+[2] {repeat.=NSKP}    => {intersect_ind=IND_1} 1.220274e-05 1.0000000  1.220274e-05 18.11301 23   
+[3] {repeat.=VQPP}    => {intersect_ind=IND_1} 1.273330e-05 0.8888889  1.432496e-05 16.10046 24   
+[4] {repeat.=FTA}     => {intersect_ind=IND_1} 1.167219e-05 0.8800000  1.326385e-05 15.93945 22   
+[5] {repeat.=WIP}     => {intersect_ind=IND_1} 1.061108e-05 0.7407407  1.432496e-05 13.41705 20   
+[6] {repeat.=EVPK}    => {intersect_ind=IND_1} 4.615820e-05 0.7190083  6.419704e-05 13.02341 87   
+[7] {repeat.=YYPTSPQ} => {intersect_ind=IND_1} 1.061108e-05 0.7142857  1.485551e-05 12.93787 20   

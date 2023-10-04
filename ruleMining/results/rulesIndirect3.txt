@@ -1,0 +1,123 @@
+[1] "Min support: 0.000005,  Min confidence: 0.7"
+     lhs                  rhs                   support      confidence coverage     lift    
+[1]  {repeat.=GPPGG}   => {intersect_ind=IND_1} 5.425765e-06 1.0000000  5.425765e-06 17.44114
+[2]  {repeat.=RTRS}    => {intersect_ind=IND_1} 5.425765e-06 1.0000000  5.425765e-06 17.44114
+[3]  {repeat.=SKLTR}   => {intersect_ind=IND_1} 5.425765e-06 1.0000000  5.425765e-06 17.44114
+[4]  {repeat.=GSPTR}   => {intersect_ind=IND_1} 5.425765e-06 1.0000000  5.425765e-06 17.44114
+[5]  {repeat.=VITAD}   => {intersect_ind=IND_1} 5.968342e-06 1.0000000  5.968342e-06 17.44114
+[6]  {repeat.=YLGD}    => {intersect_ind=IND_1} 5.968342e-06 1.0000000  5.968342e-06 17.44114
+[7]  {repeat.=KTDS}    => {intersect_ind=IND_1} 5.968342e-06 1.0000000  5.968342e-06 17.44114
+[8]  {repeat.=NKSKT}   => {intersect_ind=IND_1} 5.968342e-06 1.0000000  5.968342e-06 17.44114
+[9]  {repeat.=IKDG}    => {intersect_ind=IND_1} 5.968342e-06 1.0000000  5.968342e-06 17.44114
+[10] {repeat.=RRKS}    => {intersect_ind=IND_1} 8.138648e-06 1.0000000  8.138648e-06 17.44114
+[11] {repeat.=EEEPL}   => {intersect_ind=IND_1} 8.681224e-06 1.0000000  8.681224e-06 17.44114
+[12] {repeat.=LFEA}    => {intersect_ind=IND_1} 8.681224e-06 1.0000000  8.681224e-06 17.44114
+[13] {repeat.=LPNA}    => {intersect_ind=IND_1} 8.681224e-06 1.0000000  8.681224e-06 17.44114
+[14] {repeat.=LSGK}    => {intersect_ind=IND_1} 8.681224e-06 1.0000000  8.681224e-06 17.44114
+[15] {repeat.=STSN}    => {intersect_ind=IND_1} 9.766377e-06 1.0000000  9.766377e-06 17.44114
+[16] {repeat.=EEGP}    => {intersect_ind=IND_1} 1.139411e-05 1.0000000  1.139411e-05 17.44114
+[17] {repeat.=KSTA}    => {intersect_ind=IND_1} 1.410699e-05 1.0000000  1.410699e-05 17.44114
+[18] {repeat.=TDEDY}   => {intersect_ind=IND_1} 6.510918e-06 0.9230769  7.053495e-06 16.09952
+[19] {repeat.=PLVEE}   => {intersect_ind=IND_1} 1.193668e-05 0.9166667  1.302184e-05 15.98772
+[20] {repeat.=ETSD}    => {intersect_ind=IND_1} 1.193668e-05 0.9166667  1.302184e-05 15.98772
+[21] {repeat.=NDPDLEE} => {intersect_ind=IND_1} 5.425765e-06 0.9090909  5.968342e-06 15.85559
+[22] {repeat.=EDFD}    => {intersect_ind=IND_1} 8.681224e-06 0.8888889  9.766377e-06 15.50324
+[23] {repeat.=QPGL}    => {intersect_ind=IND_1} 6.510918e-06 0.8571429  7.596071e-06 14.94955
+[24] {repeat.=GEVV}    => {intersect_ind=IND_1} 5.968342e-06 0.8461538  7.053495e-06 14.75789
+[25] {repeat.=KESE}    => {intersect_ind=IND_1} 5.968342e-06 0.8461538  7.053495e-06 14.75789
+[26] {repeat.=MKG}     => {intersect_ind=IND_1} 1.193668e-05 0.8461538  1.410699e-05 14.75789
+[27] {repeat.=AATK}    => {intersect_ind=IND_1} 5.425765e-06 0.8333333  6.510918e-06 14.53429
+[28] {repeat.=FEAA}    => {intersect_ind=IND_1} 7.053495e-06 0.8125000  8.681224e-06 14.17093
+[29] {repeat.=LKPD}    => {intersect_ind=IND_1} 7.053495e-06 0.8125000  8.681224e-06 14.17093
+[30] {repeat.=EEPL}    => {intersect_ind=IND_1} 8.681224e-06 0.8000000  1.085153e-05 13.95292
+[31] {repeat.=YSA}     => {intersect_ind=IND_1} 8.138648e-06 0.7894737  1.030895e-05 13.76932
+[32] {repeat.=TQKKQT}  => {intersect_ind=IND_1} 5.968342e-06 0.7857143  7.596071e-06 13.70376
+[33] {repeat.=SLLR}    => {intersect_ind=IND_1} 9.766377e-06 0.7826087  1.247926e-05 13.64959
+[34] {repeat.=WTRGE}   => {intersect_ind=IND_1} 5.425765e-06 0.7692308  7.053495e-06 13.41626
+[35] {repeat.=RVGL}    => {intersect_ind=IND_1} 5.425765e-06 0.7692308  7.053495e-06 13.41626
+[36] {repeat.=KLVI}    => {intersect_ind=IND_1} 6.510918e-06 0.7500000  8.681224e-06 13.08086
+[37] {repeat.=KPIP}    => {intersect_ind=IND_1} 6.510918e-06 0.7500000  8.681224e-06 13.08086
+[38] {repeat.=KRPV}    => {intersect_ind=IND_1} 6.510918e-06 0.7500000  8.681224e-06 13.08086
+[39] {repeat.=RETV}    => {intersect_ind=IND_1} 6.510918e-06 0.7500000  8.681224e-06 13.08086
+[40] {repeat.=TVEA}    => {intersect_ind=IND_1} 6.510918e-06 0.7500000  8.681224e-06 13.08086
+[41] {repeat.=VVEKP}   => {intersect_ind=IND_1} 9.766377e-06 0.7500000  1.302184e-05 13.08086
+[42] {repeat.=PPSEP}   => {intersect_ind=IND_1} 9.766377e-06 0.7500000  1.302184e-05 13.08086
+[43] {repeat.=IVER}    => {intersect_ind=IND_1} 1.139411e-05 0.7500000  1.519214e-05 13.08086
+[44] {repeat.=EPVA}    => {intersect_ind=IND_1} 1.302184e-05 0.7500000  1.736245e-05 13.08086
+[45] {repeat.=PVPT}    => {intersect_ind=IND_1} 1.302184e-05 0.7500000  1.736245e-05 13.08086
+[46] {repeat.=PPSE}    => {intersect_ind=IND_1} 1.464957e-05 0.7500000  1.953275e-05 13.08086
+[47] {repeat.=VKKE}    => {intersect_ind=IND_1} 2.278821e-05 0.7500000  3.038429e-05 13.08086
+[48] {repeat.=APVK}    => {intersect_ind=IND_1} 2.441594e-05 0.7500000  3.255459e-05 13.08086
+[49] {repeat.=PSEP}    => {intersect_ind=IND_1} 2.604367e-05 0.7500000  3.472490e-05 13.08086
+[50] {repeat.=EVKK}    => {intersect_ind=IND_1} 2.604367e-05 0.7500000  3.472490e-05 13.08086
+[51] {repeat.=EPVV}    => {intersect_ind=IND_1} 2.929913e-05 0.7500000  3.906551e-05 13.08086
+[52] {repeat.=VEKR}    => {intersect_ind=IND_1} 3.092686e-05 0.7500000  4.123582e-05 13.08086
+[53] {repeat.=VPVK}    => {intersect_ind=IND_1} 3.581005e-05 0.7500000  4.774673e-05 13.08086
+[54] {repeat.=EPVKA}   => {intersect_ind=IND_1} 3.906551e-05 0.7500000  5.208735e-05 13.08086
+[55] {repeat.=SRYE}    => {intersect_ind=IND_1} 7.053495e-06 0.7222222  9.766377e-06 12.59638
+[56] {repeat.=EPLE}    => {intersect_ind=IND_1} 9.766377e-06 0.7200000  1.356441e-05 12.55762
+[57] {repeat.=EPVK}    => {intersect_ind=IND_1} 1.578898e-04 0.7132353  2.213712e-04 12.43964
+[58] {repeat.=QPK}     => {intersect_ind=IND_1} 1.193668e-05 0.7096774  1.681987e-05 12.37759
+[59] {repeat.=KEPV}    => {intersect_ind=IND_1} 2.604367e-05 0.7058824  3.689520e-05 12.31140
+[60] {repeat.=PAEV}    => {intersect_ind=IND_1} 1.030895e-05 0.7037037  1.464957e-05 12.27340
+     count
+[1]   10  
+[2]   10  
+[3]   10  
+[4]   10  
+[5]   11  
+[6]   11  
+[7]   11  
+[8]   11  
+[9]   11  
+[10]  15  
+[11]  16  
+[12]  16  
+[13]  16  
+[14]  16  
+[15]  18  
+[16]  21  
+[17]  26  
+[18]  12  
+[19]  22  
+[20]  22  
+[21]  10  
+[22]  16  
+[23]  12  
+[24]  11  
+[25]  11  
+[26]  22  
+[27]  10  
+[28]  13  
+[29]  13  
+[30]  16  
+[31]  15  
+[32]  11  
+[33]  18  
+[34]  10  
+[35]  10  
+[36]  12  
+[37]  12  
+[38]  12  
+[39]  12  
+[40]  12  
+[41]  18  
+[42]  18  
+[43]  21  
+[44]  24  
+[45]  24  
+[46]  27  
+[47]  42  
+[48]  45  
+[49]  48  
+[50]  48  
+[51]  54  
+[52]  57  
+[53]  66  
+[54]  72  
+[55]  13  
+[56]  18  
+[57] 291  
+[58]  22  
+[59]  48  
+[60]  19  

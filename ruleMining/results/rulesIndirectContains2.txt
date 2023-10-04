@@ -1,0 +1,14 @@
+[1] "Min support: 0.0001, Min confidence: 0.7"
+     lhs                  rhs                  support      confidence coverage     lift     count
+[1]  {repeat.=SDSD}    => {contains_ind=IND_1} 0.0002767140 0.9980431  0.0002772566 7.465124  510 
+[2]  {repeat.=SDSDSDS} => {contains_ind=IND_1} 0.0001258778 0.9547325  0.0001318461 7.141171  232 
+[3]  {repeat.=HKH}     => {contains_ind=IND_1} 0.0001128559 0.9497717  0.0001188243 7.104065  208 
+[4]  {repeat.=SDSDS}   => {contains_ind=IND_1} 0.0002094345 0.9168646  0.0002284247 6.857928  386 
+[5]  {repeat.=PSYSP}   => {contains_ind=IND_1} 0.0009082731 0.8782791  0.0010341509 6.569318 1674 
+[6]  {repeat.=EQQE}    => {contains_ind=IND_1} 0.0002924487 0.8501577  0.0003439935 6.358977  539 
+[7]  {repeat.=YSP}     => {contains_ind=IND_1} 0.0006456661 0.8475783  0.0007617774 6.339684 1190 
+[8]  {repeat.=PSY}     => {contains_ind=IND_1} 0.0002430743 0.8101266  0.0003000448 6.059553  448 
+[9]  {repeat.=HKE}     => {contains_ind=IND_1} 0.0001041747 0.7966805  0.0001307609 5.958980  192 
+[10] {repeat.=GDD}     => {contains_ind=IND_1} 0.0001209946 0.7935943  0.0001524640 5.935896  223 
+[11] {repeat.=FSF}     => {contains_ind=IND_1} 0.0013423343 0.7814277  0.0017177973 5.844892 2474 
+[12] {repeat.=PQQP}    => {contains_ind=IND_1} 0.0001101430 0.7173145  0.0001535492 5.365341  203 

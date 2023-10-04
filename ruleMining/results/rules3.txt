@@ -1,0 +1,173 @@
+[1] "Min support: 0.000005,  Min confidence: 0.5"
+     lhs                             rhs                   support      confidence coverage    
+[1]  {repeat.=LDKL}               => {intersect_ind=IND_1} 5.305541e-06 1.0000000  5.305541e-06
+[2]  {repeat.=KPDRL}              => {intersect_ind=IND_1} 5.836095e-06 1.0000000  5.836095e-06
+[3]  {repeat.=NFIG}               => {intersect_ind=IND_1} 6.366649e-06 1.0000000  6.366649e-06
+[4]  {repeat.=TITE}               => {intersect_ind=IND_1} 6.366649e-06 1.0000000  6.366649e-06
+[5]  {repeat.=KSSD}               => {intersect_ind=IND_1} 6.897203e-06 1.0000000  6.897203e-06
+[6]  {repeat.=RLQG}               => {intersect_ind=IND_1} 7.958311e-06 1.0000000  7.958311e-06
+[7]  {repeat.=TQTAEFKGTFE}        => {intersect_ind=IND_1} 8.488865e-06 1.0000000  8.488865e-06
+[8]  {repeat.=EASG}               => {intersect_ind=IND_1} 8.488865e-06 1.0000000  8.488865e-06
+[9]  {repeat.=GDDE}               => {intersect_ind=IND_1} 1.114164e-05 1.0000000  1.114164e-05
+[10] {repeat.=NSKP}               => {intersect_ind=IND_1} 1.220274e-05 1.0000000  1.220274e-05
+[11] {repeat.=LPEE}               => {intersect_ind=IND_1} 8.488865e-06 0.9411765  9.019419e-06
+[12] {repeat.=INAA}               => {intersect_ind=IND_1} 5.305541e-06 0.9090909  5.836095e-06
+[13] {repeat.=VQPP}               => {intersect_ind=IND_1} 1.273330e-05 0.8888889  1.432496e-05
+[14] {repeat.=FTA}                => {intersect_ind=IND_1} 1.167219e-05 0.8800000  1.326385e-05
+[15] {repeat.=PPLED}              => {intersect_ind=IND_1} 7.427757e-06 0.8750000  8.488865e-06
+[16] {repeat.=QQGQQPGQGQQ}        => {intersect_ind=IND_1} 5.305541e-06 0.8333333  6.366649e-06
+[17] {repeat.=EQF}                => {intersect_ind=IND_1} 5.305541e-06 0.8333333  6.366649e-06
+[18] {repeat.=LALS}               => {intersect_ind=IND_1} 6.897203e-06 0.8125000  8.488865e-06
+[19] {repeat.=ASGC}               => {intersect_ind=IND_1} 6.366649e-06 0.8000000  7.958311e-06
+[20] {repeat.=DYY}                => {intersect_ind=IND_1} 8.488865e-06 0.8000000  1.061108e-05
+[21] {repeat.=TAKK}               => {intersect_ind=IND_1} 7.427757e-06 0.7777778  9.549973e-06
+[22] {repeat.=KLPE}               => {intersect_ind=IND_1} 5.305541e-06 0.7692308  6.897203e-06
+[23] {repeat.=FLAA}               => {intersect_ind=IND_1} 6.897203e-06 0.7647059  9.019419e-06
+[24] {repeat.=VEAP}               => {intersect_ind=IND_1} 6.366649e-06 0.7500000  8.488865e-06
+[25] {repeat.=PKAP}               => {intersect_ind=IND_1} 6.366649e-06 0.7500000  8.488865e-06
+[26] {repeat.=PPTK}               => {intersect_ind=IND_1} 6.366649e-06 0.7500000  8.488865e-06
+[27] {repeat.=EVSK}               => {intersect_ind=IND_1} 6.366649e-06 0.7500000  8.488865e-06
+[28] {repeat.=WIP}                => {intersect_ind=IND_1} 1.061108e-05 0.7407407  1.432496e-05
+[29] {repeat.=QQSGQGQ}            => {intersect_ind=IND_1} 8.488865e-06 0.7272727  1.167219e-05
+[30] {repeat.=EVPK}               => {intersect_ind=IND_1} 4.615820e-05 0.7190083  6.419704e-05
+[31] {repeat.=VMK}                => {intersect_ind=IND_1} 5.305541e-06 0.7142857  7.427757e-06
+[32] {repeat.=YYPTSPQ}            => {intersect_ind=IND_1} 1.061108e-05 0.7142857  1.485551e-05
+[33] {repeat.=VMS}                => {intersect_ind=IND_1} 7.427757e-06 0.7000000  1.061108e-05
+[34] {repeat.=DDNS}               => {intersect_ind=IND_1} 9.549973e-06 0.6923077  1.379441e-05
+[35] {repeat.=PYG}                => {intersect_ind=IND_1} 9.019419e-06 0.6800000  1.326385e-05
+[36] {repeat.=EGLR}               => {intersect_ind=IND_1} 8.488865e-06 0.6666667  1.273330e-05
+[37] {repeat.=AQY}                => {intersect_ind=IND_1} 8.488865e-06 0.6666667  1.273330e-05
+[38] {repeat.=HNK}                => {intersect_ind=IND_1} 1.167219e-05 0.6666667  1.750828e-05
+[39] {repeat.=PIQ}                => {intersect_ind=IND_1} 7.958311e-06 0.6521739  1.220274e-05
+[40] {repeat.=YDK}                => {intersect_ind=IND_1} 6.897203e-06 0.6500000  1.061108e-05
+[41] {repeat.=VPVI}               => {intersect_ind=IND_1} 9.549973e-06 0.6428571  1.485551e-05
+[42] {repeat.=KPEV}               => {intersect_ind=IND_1} 1.909995e-05 0.6428571  2.971103e-05
+[43] {repeat.=GFGT}               => {intersect_ind=IND_1} 7.427757e-06 0.6363636  1.167219e-05
+[44] {repeat.=QGQQPGQGQQGQQ}      => {intersect_ind=IND_1} 7.427757e-06 0.6363636  1.167219e-05
+[45] {repeat.=IHE}                => {intersect_ind=IND_1} 6.366649e-06 0.6315789  1.008053e-05
+[46] {repeat.=QPGMQPQPG}          => {intersect_ind=IND_1} 9.019419e-06 0.6296296  1.432496e-05
+[47] {repeat.=SNVS}               => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[48] {repeat.=VCFY}               => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[49] {repeat.=TVYED}              => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[50] {repeat.=EHT}                => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[51] {repeat.=QGQQPGQGQQGQQPGQGQ} => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[52] {repeat.=DDDYNG}             => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[53] {repeat.=WIG}                => {intersect_ind=IND_1} 5.305541e-06 0.6250000  8.488865e-06
+[54] {repeat.=PTKV}               => {intersect_ind=IND_1} 7.958311e-06 0.6250000  1.273330e-05
+[55] {repeat.=EAY}                => {intersect_ind=IND_1} 1.697773e-05 0.6153846  2.758881e-05
+[56] {repeat.=KASK}               => {intersect_ind=IND_1} 7.427757e-06 0.6086957  1.220274e-05
+[57] {repeat.=SPQQ}               => {intersect_ind=IND_1} 9.019419e-06 0.6071429  1.485551e-05
+[58] {repeat.=GPIK}               => {intersect_ind=IND_1} 6.366649e-06 0.6000000  1.061108e-05
+[59] {repeat.=PAPE}               => {intersect_ind=IND_1} 6.366649e-06 0.6000000  1.061108e-05
+[60] {repeat.=PVPA}               => {intersect_ind=IND_1} 6.366649e-06 0.6000000  1.061108e-05
+[61] {repeat.=ISKR}               => {intersect_ind=IND_1} 6.366649e-06 0.6000000  1.061108e-05
+[62] {repeat.=EKVS}               => {intersect_ind=IND_1} 6.366649e-06 0.6000000  1.061108e-05
+[63] {repeat.=KKGK}               => {intersect_ind=IND_1} 6.897203e-06 0.5909091  1.167219e-05
+[64] {repeat.=KQT}                => {intersect_ind=IND_1} 5.836095e-06 0.5789474  1.008053e-05
+[65] {repeat.=KEEG}               => {intersect_ind=IND_1} 5.836095e-06 0.5789474  1.008053e-05
+[66] {repeat.=PEAI}               => {intersect_ind=IND_1} 9.549973e-06 0.5625000  1.697773e-05
+[67] {repeat.=PPEV}               => {intersect_ind=IND_1} 1.432496e-05 0.5625000  2.546660e-05
+[68] {repeat.=QGQQGQQPGQ}         => {intersect_ind=IND_1} 5.305541e-06 0.5555556  9.549973e-06
+[69] {repeat.=ADVD}               => {intersect_ind=IND_1} 5.305541e-06 0.5555556  9.549973e-06
+[70] {repeat.=YYPTS}              => {intersect_ind=IND_1} 1.061108e-05 0.5555556  1.909995e-05
+[71] {repeat.=QQPGQGQQPGQ}        => {intersect_ind=IND_1} 1.167219e-05 0.5500000  2.122216e-05
+[72] {repeat.=AAVA}               => {intersect_ind=IND_1} 6.366649e-06 0.5454545  1.167219e-05
+[73] {repeat.=QQPGQGQQGQQ}        => {intersect_ind=IND_1} 6.366649e-06 0.5454545  1.167219e-05
+[74] {repeat.=GAGA}               => {intersect_ind=IND_1} 9.549973e-06 0.5454545  1.750828e-05
+[75] {repeat.=GQGQQPGQ}           => {intersect_ind=IND_1} 1.485551e-05 0.5384615  2.758881e-05
+[76] {repeat.=RQLL}               => {intersect_ind=IND_1} 1.273330e-05 0.5333333  2.387493e-05
+[77] {repeat.=TIPP}               => {intersect_ind=IND_1} 5.305541e-06 0.5263158  1.008053e-05
+[78] {repeat.=QGQQGQQ}            => {intersect_ind=IND_1} 1.273330e-05 0.5217391  2.440549e-05
+[79] {repeat.=AHSS}               => {intersect_ind=IND_1} 6.897203e-06 0.5200000  1.326385e-05
+[80] {repeat.=LYH}                => {intersect_ind=IND_1} 5.836095e-06 0.5000000  1.167219e-05
+[81] {repeat.=SGQGQ}              => {intersect_ind=IND_1} 6.366649e-06 0.5000000  1.273330e-05
+[82] {repeat.=KKAV}               => {intersect_ind=IND_1} 9.549973e-06 0.5000000  1.909995e-05
+[83] {repeat.=QPGQGQQ}            => {intersect_ind=IND_1} 1.061108e-05 0.5000000  2.122216e-05
+[84] {repeat.=QPGQGQQG}           => {intersect_ind=IND_1} 1.273330e-05 0.5000000  2.546660e-05
+[85] {repeat.=GYYPTS}             => {intersect_ind=IND_1} 1.591662e-05 0.5000000  3.183324e-05
+     lift      count
+[1]  18.113013 10   
+[2]  18.113013 11   
+[3]  18.113013 12   
+[4]  18.113013 12   
+[5]  18.113013 13   
+[6]  18.113013 15   
+[7]  18.113013 16   
+[8]  18.113013 16   
+[9]  18.113013 21   
+[10] 18.113013 23   
+[11] 17.047541 16   
+[12] 16.466375 10   
+[13] 16.100456 24   
+[14] 15.939451 22   
+[15] 15.848886 14   
+[16] 15.094177 10   
+[17] 15.094177 10   
+[18] 14.716823 13   
+[19] 14.490410 12   
+[20] 14.490410 16   
+[21] 14.087899 14   
+[22] 13.933087 10   
+[23] 13.851127 13   
+[24] 13.584760 12   
+[25] 13.584760 12   
+[26] 13.584760 12   
+[27] 13.584760 12   
+[28] 13.417047 20   
+[29] 13.173100 16   
+[30] 13.023406 87   
+[31] 12.937866 10   
+[32] 12.937866 20   
+[33] 12.679109 14   
+[34] 12.539778 18   
+[35] 12.316849 17   
+[36] 12.075342 16   
+[37] 12.075342 16   
+[38] 12.075342 22   
+[39] 11.812834 15   
+[40] 11.773458 13   
+[41] 11.644080 18   
+[42] 11.644080 36   
+[43] 11.526463 14   
+[44] 11.526463 14   
+[45] 11.439798 12   
+[46] 11.404490 17   
+[47] 11.320633 10   
+[48] 11.320633 10   
+[49] 11.320633 10   
+[50] 11.320633 10   
+[51] 11.320633 10   
+[52] 11.320633 10   
+[53] 11.320633 10   
+[54] 11.320633 15   
+[55] 11.146469 32   
+[56] 11.025312 14   
+[57] 10.997186 17   
+[58] 10.867808 12   
+[59] 10.867808 12   
+[60] 10.867808 12   
+[61] 10.867808 12   
+[62] 10.867808 12   
+[63] 10.703144 13   
+[64] 10.486481 11   
+[65] 10.486481 11   
+[66] 10.188570 18   
+[67] 10.188570 27   
+[68] 10.062785 10   
+[69] 10.062785 10   
+[70] 10.062785 20   
+[71]  9.962157 22   
+[72]  9.879825 12   
+[73]  9.879825 12   
+[74]  9.879825 18   
+[75]  9.753161 28   
+[76]  9.660273 24   
+[77]  9.533165 10   
+[78]  9.450268 24   
+[79]  9.418767 13   
+[80]  9.056506 11   
+[81]  9.056506 12   
+[82]  9.056506 18   
+[83]  9.056506 20   
+[84]  9.056506 24   
+[85]  9.056506 30   

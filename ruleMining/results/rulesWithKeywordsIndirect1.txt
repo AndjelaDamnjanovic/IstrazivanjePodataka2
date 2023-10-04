@@ -1,0 +1,4 @@
+[1] "Min support: 0.0001, Min confidence: 0.7"
+    lhs                                                                                                                                                                                                                                  rhs                        support confidence     coverage     lift count
+[1] {repeat.=EPVK,                                                                                                                                                                                                                                                                                                
+     keywords=result/indicate/form/similar/protein/chemical/random coil/secondary structure/disordered/segment/analysis/present/random/bind/experiment/domain/coil/secondary/peptide/ordered/sequence/binding/conformation/structure} => {intersect_ind=IND_1} 0.0001578898  0.7132353 0.0002213712 12.43964   291
